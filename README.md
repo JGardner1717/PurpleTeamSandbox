@@ -11,5 +11,8 @@ Below are links to some of the powerful industry tools that can be used with the
 Download for BeEF:
 	Link to install: https://github.com/beefproject/beef 
 
- Download for Wireshark:
+Download for Wireshark:
  	Link to install: https://www.wireshark.org/
+
+Download for Veil:
+	Link to install: https://github.com/Veil-Framework/Veil
