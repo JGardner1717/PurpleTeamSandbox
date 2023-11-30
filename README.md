@@ -23,3 +23,7 @@ Download for Veil:
 # Snort
 Download for Snort:
 	Link to install: https://www.snort.org/downloads
+
+# Bettercap
+Downlaod for Bettercap:
+	Link to install: https://www.bettercap.org/
