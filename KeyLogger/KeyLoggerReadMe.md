@@ -1,3 +1,4 @@
+#Key Logging Script
 This folder contains all of the files for the Keylogging script.
 
 Main.py is the main file that calls the MyKeyLogger.py file.
